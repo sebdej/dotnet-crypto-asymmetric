@@ -1,0 +1,3 @@
+Example of signing data with an assymmetric (non shared / public key) key algorithm in .NET 6.
+
+Using ECDSA + SHA hash algorithm.
